@@ -5,8 +5,7 @@
 </div>
 
 <p align="center">
-Desenvolvedor Web Júnior com experiência prática atuando em projetos freelancers e projetos pessoais. 
-Atuação em desenvolvimento front-end utilizando HTML, CSS, JavaScript, TypeScript e React, com foco na criação de interfaces responsivas, reutilizáveis e funcionais.
+Desenvolvedor Web Júnior com experiência prática atuando em projetos freelancers e projetos pessoais.  Atuação em desenvolvimento front-end utilizando HTML, CSS, JavaScript, TypeScript e React, com foco na criação de interfaces responsivas, reutilizáveis e funcionais.
 
 Conhecimentos em MySQL, lógica de programação e boas práticas de desenvolvimento de software.
 Experiência profissional como Instrutor de Robótica, atuando com lógica de programação, resolução de problemas, comunicação técnica e trabalho em equipe.
