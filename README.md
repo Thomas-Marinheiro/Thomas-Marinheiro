@@ -40,10 +40,4 @@ Busco oportunidade como Desenvolvedor Web Júnior para atuar em time de tecnolog
   <a href="https://www.linkedin.com/in/thomas-marinheiro-a1b567211/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://www.instagram.com/SEU_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-  </a>
-  <a href="https://youtube.com/@SEU_CANAL" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
-  </a>
 </div>
