@@ -34,7 +34,7 @@ Busco oportunidade como Desenvolvedor Web Júnior para atuar em time de tecnolog
 
 ---
 
-### 📫 Conecte-se comigo:
+### Conecte-se comigo:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/thomas-marinheiro-a1b567211/" target="_blank">
