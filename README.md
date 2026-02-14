@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/pt-BR/view/programming-gif-14369405421462703642" height="150" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjkydXR0cjA2eTFqbmZ6aDR3bGd1bmpwZzg3eTRwbjl3ZGRlbXhteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="150" />
 
   <h1>Olá! Eu sou o Thomas Marinheiro 👋</h1>
 </div>
